@@ -145,7 +145,7 @@ dmypy.json
 cython_debug/
 
 # Data files
-data/MNIST/
+MNIST/
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can

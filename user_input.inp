@@ -3,4 +3,4 @@
 batch_size: 128
 lr: 2E-4
 step_2_save_output: 10
-num_epochs: 100
+num_epochs: 11
